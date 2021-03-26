@@ -19,5 +19,5 @@ php artisan vendor:publish --tag=blade-ev --force
 The new way to reference them is:
 
 ```blade
-<img src="{{ asset('vendor/blade-ev/laravelnova.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-ev/activity.svg') }}" width="10" height="10"/>
 ```
