@@ -1,3 +1,9 @@
+### Project already maintained by [Hasnayeen](https://github.com/Hasnayeen/blade-eva-icons)
+* all contributions would directly go to [https://github.com/Hasnayeen/blade-eva-icons](https://github.com/Hasnayeen/blade-eva-icons)
+
+
+
+
 <p align="center">
     <img src="https://banners.beyondco.de/Blade%20Eva%20Icons.png?theme=light&packageManager=composer+require&packageName=codeat3%2Fblade-eva-icons&pattern=architect&style=style_1&description=A+package+to+use+Eva+Icons+in+your+Laravel+Blade+views&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" width="1280" title="Social Card Blade Eva Icons">
 </p>
