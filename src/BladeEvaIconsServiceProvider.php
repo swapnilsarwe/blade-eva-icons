@@ -14,7 +14,7 @@ final class BladeEvaIconsServiceProvider extends ServiceProvider
         $this->callAfterResolving(Factory::class, function (Factory $factory) {
             $factory->add('eva-icons', [
                 'path' => __DIR__.'/../resources/svg',
-                'prefix' => 'si',
+                'prefix' => 'ev',
             ]);
         });
     }
